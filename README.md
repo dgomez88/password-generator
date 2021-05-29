@@ -26,6 +26,6 @@ using javascript created a Password Generator
 
 ![image](https://user-images.githubusercontent.com/80716790/120083977-2432cf80-c092-11eb-9e60-c97262dd8d80.png)
 
-**password generated
-**
+****password generated**
+
 ![image](https://user-images.githubusercontent.com/80716790/120083985-33b21880-c092-11eb-8b71-fc65abb4d1dd.png)
