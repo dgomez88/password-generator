@@ -1,3 +1,10 @@
 # Password Generator
 
-<iframe src="https://drive.google.com/file/d/14VxnYtrJNFHnfiZY5I90wXrLit9pPkjS/preview" width="640" height="480"></iframe>
+Select how many characters you want on your password
+
+![image](https://user-images.githubusercontent.com/80716790/120083899-9f47b600-c091-11eb-86b9-a9d26f93dcb2.png)
+
+confirmation on how many characters you want 
+
+![image](https://user-images.githubusercontent.com/80716790/120083912-b8506700-c091-11eb-89ae-048e40ff9d30.png)
+
